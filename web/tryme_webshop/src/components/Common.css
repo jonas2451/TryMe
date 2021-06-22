@@ -1,0 +1,20 @@
+.centered_container{
+    /*flex: 1;*/
+    flex-direction: column;
+    display: flex;
+    /*background-color: #1f98f4;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*margin-top: 20vh;*/
+    /*margin-bottom: auto;*/
+    /*margin-top: 5%;*/
+    margin: auto;
+    padding: 2%;
+    border: 1px solid black;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+}
+
+.error{
+    color: red;
+}

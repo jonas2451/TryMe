@@ -1,0 +1,26 @@
+.collection-image {
+    max-width: 350px;
+    max-height: 500px;
+}
+
+.collection-image-container {
+    float: left;
+    width: 350px;
+    height: 500px;
+}
+
+.collection-teaser {
+    float: right;
+}
+
+.collection-teaser > h1 {
+    text-align: left;
+    margin-top: 200px;
+    margin-right: 900px;
+}
+
+.new_arrivals {
+    margin-top: 2rem;
+    width: 100%;
+    text-align: left;
+}

@@ -1,0 +1,39 @@
+button{
+    border-style: initial;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 100%;
+}
+
+.login{
+    /*background-color: pink;*/
+    flex:1;
+}
+
+.register{
+    /*background-color: pink;*/
+    flex:1;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex: 1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input{
+    width: 100%;
+    box-shadow: none;
+    text-decoration: none;
+    border: 1px solid black;
+    min-height: 40px;
+    font-size: 20px;
+}
